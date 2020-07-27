@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4Vs0OMYLPX0uyGIMmEX3Lda4pFkl2lBZ0ybn0QsY0r8rX4TXr1Oj0eHIlbnIkJdh7Txfm0Y/+yj+nVnH2cL5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan\\source\\repos\\Lab09-LINQ\\Lab09-Linq\\Lab09-Linq\\Lab09-Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
